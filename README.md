@@ -13,3 +13,5 @@ STEPS FOR UPDATING THE REPOSITORY
 
 # INST377
 Dynamic Web Apps
+
+All caps -- that's a nice vibe. :-) This repo isn't private; you need to adjust to make it so. Cheers.
